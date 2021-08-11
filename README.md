@@ -7,7 +7,7 @@
   <h3 align="center">Computer Architecture and Organization I</h3>
 
   <p align="center">
-    Theorical and pratical exercises developed for MIPS processor
+    Theoretical and pratical exercises developed for MIPS processor
     <br />
     <a href="https://jvwasquevite.notion.site/Arquitetura-e-Organiza-o-de-Computadores-I-5caf1eb5241c453a898a489e527ed932"><strong>Explore documentation »</strong></a>
     <br />
@@ -22,7 +22,7 @@
 
 ## About The Project
 
-This repository was created to store and organize some theorical and pratical exercises developed for MIPS processor, using concepts learned from Computer Architecture and Organization I classes
+This repository was created to store and organize some theoretical and pratical exercises developed for MIPS processor, using concepts learned from Computer Architecture and Organization I classes
 
 ## Getting Started
 
