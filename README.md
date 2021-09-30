@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* 
+*  <a href="https://courses.missouristate.edu/KenVollmar/MARS/download.htm">MARS simulator</a>
 
 ### Installation
 
@@ -38,6 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
    ```sh
    git clone https://github.com/jvwasquevite/aoc1.git
    ```
+2. Open `.asm` files on <a href="https://courses.missouristate.edu/KenVollmar/MARS/download.htm">MARS simulator</a> to assemble and run
 
 ## Contributing
 
@@ -53,7 +54,10 @@ Distributed under the MIT License.
 
 ## Acknowledgements
 
-* 
+* Learned theorical concepts about computer architecture and organization
+* Learned how to program at low level, using Assembly on <a href="https://courses.missouristate.edu/KenVollmar/MARS/download.htm">MARS simulator</a>
+* Learned how computer process data and instructions at hardware level
+* Learned how high level programming languages compiles on hardware level
 
 ## Get in touch with me
 
